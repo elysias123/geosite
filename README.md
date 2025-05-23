@@ -33,6 +33,7 @@
   - 加入到 `geosite:gfw` 类别中，供习惯于 PAC 模式并希望使用 [GFWList](https://github.com/gfwlist/gfwlist) 的用户使用
   - 同时加入到 `geosite:geolocation-!cn` 类别中
 - **加入 EasyList 和 EasyListChina 广告域名**：通过 [@AdblockPlus/EasylistChina+Easylist.txt](https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt) 获取并加入到 `geosite:category-ads-all` 和 `geosite:category-ads-EasyList` 类别中
+- - **加入 EasyListPrivacy 隐私保护域名**：通过 [@easylist.to](https://easylist.to/easylist/easyprivacy.txt) 获取并加入到 `geosite:EasyListPrivacy` 类别中
 - **加入 AdGuard DNS Filter 广告域名**：通过 [@AdGuard/DNS-filter](https://kb.adguard.com/en/general/adguard-ad-filters#dns-filter) 获取并加入到 `geosite:category-ads-all` 和 `geosite:category-ads-AdGuardDNSFilter` 类别中
 - **加入 Peter Lowe 广告和隐私跟踪域名**：通过 [@PeterLowe/adservers](https://pgl.yoyo.org/adservers) 获取并加入到 `geosite:category-ads-all` 和 `geosite:category-ads-DanPollock` 类别中
 - **加入 Dan Pollock 广告域名**：通过 [@DanPollock/hosts](https://someonewhocares.org/hosts) 获取并加入到 `geosite:category-ads-all` 和 `geosite:category-ads-PeterLowe` 类别中
