@@ -55,11 +55,11 @@
 > *.sha256sum 为校验文件。
 
 - **geoip.dat**：
-  - [https://github.com/elysias123/v2ray-rules-dat/releases/latest/download/geoip.dat](https://github.com/elysias123/v2ray-rules-dat/releases/latest/download/geoip.dat)
-  - [https://cdn.jsdelivr.net/gh/elysias123/v2ray-rules-dat@release/geoip.dat](https://cdn.jsdelivr.net/gh/elysias123/v2ray-rules-dat@release/geoip.dat)
+  - [https://github.com/elysias123/geosite/releases/latest/download/geoip.dat](https://github.com/elysias123/geosite/releases/latest/download/geoip.dat)
+  - [https://cdn.jsdelivr.net/gh/elysias123/geosite@release/geoip.dat](https://cdn.jsdelivr.net/gh/elysias123/geosite@release/geoip.dat)
 - **geosite.dat**：
-  - [https://github.com/elysias123/v2ray-rules-dat/releases/latest/download/geosite.dat](https://github.com/elysias123/v2ray-rules-dat/releases/latest/download/geosite.dat)
-  - [https://cdn.jsdelivr.net/gh/elysias123/v2ray-rules-dat@release/geosite.dat](https://cdn.jsdelivr.net/gh/elysias123/v2ray-rules-dat@release/geosite.dat)
+  - [https://github.com/elysias123/geosite/releases/latest/download/geosite.dat](https://github.com/elysias123/geosite/releases/latest/download/geosite.dat)
+  - [https://cdn.jsdelivr.net/gh/elysias123/geosite@release/geosite.dat](https://cdn.jsdelivr.net/gh/elysias123/geosite@release/geosite.dat)
 
 ## 使用方式
 
